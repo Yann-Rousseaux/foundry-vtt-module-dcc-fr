@@ -1,0 +1,19 @@
+
+{
+    "name": "foundry-vtt-module-dcc-fr",
+    "title": "DCC Dungeon Crawl Classics game system french Translation",
+    "description": "Traduction du système de jeu DCC pour Foundry en Français",
+    "version": "0.0.1",
+    "minimumCoreVersion" : "0.8.9",
+    "compatibleCoreVersion":"10",
+    "author": "Ian Wheelbuckets",
+    "systems": ["dcc"],   
+    "languages": [{
+      "lang": "fr",
+      "name": "Français",
+      "path": "fr.json"
+    }],
+    "url": "https://github.com/theksi/foundry-vtt-module-dcc-fr",
+    "manifest": "https://raw.githubusercontent.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/module.json",
+    "download": "https://raw.githubusercontent.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/foundry-vtt-module-dcc-fr.zip"
+  }
