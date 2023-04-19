@@ -13,7 +13,7 @@
       "name": "Français",
       "path": "fr.json"
     }],
-    "url": "https://github.com/theksi/foundry-vtt-module-dcc-fr",
-    "manifest": "https://raw.githubusercontent.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/module.json",
+    "url": "https://github.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr",
+    "manifest": "https://raw.githubusercontent.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/main/module.json",
     "download": "https://raw.githubusercontent.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/foundry-vtt-module-dcc-fr.zip"
   }
