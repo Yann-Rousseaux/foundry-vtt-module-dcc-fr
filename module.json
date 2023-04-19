@@ -15,5 +15,5 @@
     }],
     "url": "https://github.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr",
     "manifest": "https://raw.githubusercontent.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/main/module.json",
-    "download": "https://github.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/blob/main/foundry-vtt-module-dcc-fr.zip?raw=true"
+    "download": "https://github.com/Yann-Rousseaux/foundry-vtt-module-dcc-fr/raw/main/foundry-vtt-module-dcc-fr.zip"
   }
